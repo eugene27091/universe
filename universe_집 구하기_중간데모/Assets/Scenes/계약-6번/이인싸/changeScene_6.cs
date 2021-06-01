@@ -19,6 +19,11 @@ public class changeScene_6 : MonoBehaviour
         SceneManager.LoadScene("6_이인싸_정답");
     }
 
+    public void ch1_wrong()
+    {
+        SceneManager.LoadScene("6_이인싸_오답");
+    }
+
     public void ch1_money()
     {
         SceneManager.LoadScene("6_이인싸_입금");

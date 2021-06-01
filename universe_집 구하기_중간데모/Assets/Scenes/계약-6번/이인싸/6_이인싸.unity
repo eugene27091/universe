@@ -432,12 +432,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7020949204196640533, guid: fe2c93bad7a120549b63ec807bf06561,
+    - target: {fileID: 7494084730592137056, guid: fe2c93bad7a120549b63ec807bf06561,
         type: 3}
       propertyPath: panel
       value: 
       objectReference: {fileID: 480618713}
-    - target: {fileID: 7494084730592137056, guid: fe2c93bad7a120549b63ec807bf06561,
+    - target: {fileID: 7020949204196640533, guid: fe2c93bad7a120549b63ec807bf06561,
         type: 3}
       propertyPath: panel
       value: 
@@ -554,11 +554,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogAsset
       objectReference: {fileID: 0}
-    - target: {fileID: 3974203232139762035, guid: 0f0739bfa9ac76040a65947e9a97410d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5167619228224557013, guid: 0f0739bfa9ac76040a65947e9a97410d,
         type: 3}
       propertyPath: m_IsActive
@@ -669,15 +664,15 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3974203233704455946, guid: 0f0739bfa9ac76040a65947e9a97410d,
+    - target: {fileID: 1150648985215427669, guid: 0f0739bfa9ac76040a65947e9a97410d,
         type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 853816710}
-    - target: {fileID: 3974203233704455946, guid: 0f0739bfa9ac76040a65947e9a97410d,
+      propertyPath: m_AnchoredPosition.x
+      value: 28.099976
+      objectReference: {fileID: 0}
+    - target: {fileID: 3974203232139762035, guid: 0f0739bfa9ac76040a65947e9a97410d,
         type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ch1_warrant
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3974203233642978856, guid: 0f0739bfa9ac76040a65947e9a97410d,
         type: 3}
@@ -689,6 +684,28 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: ch1_contract
       objectReference: {fileID: 0}
+    - target: {fileID: 3974203233704455946, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 853816710}
+    - target: {fileID: 3974203233704455946, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ch1_warrant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5099732173981071211, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: Emotion._sprite.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0d454a782216c0e488e02e715d41f9dd,
+        type: 3}
+    - target: {fileID: 5099732173981071208, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0d454a782216c0e488e02e715d41f9dd,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f0739bfa9ac76040a65947e9a97410d, type: 3}
 --- !u!114 &4094011683553803106 stripped

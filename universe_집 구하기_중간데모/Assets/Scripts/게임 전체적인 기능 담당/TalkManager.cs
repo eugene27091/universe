@@ -122,7 +122,7 @@ public class TalkManager : MonoBehaviour
         talkData.Add(64, new string[] { "주소는 문제없다" });
         talkData.Add(65, new string[] { "금액에는 문제가 없다" });
         talkData.Add(66, new string[] { "특별할 것 없는 특약사항이다. 문제 없다" });
-        talkData.Add(67, new string[] { "임대인 정보 모두 위임장과 동일하다. 문제 없다." });
+        talkData.Add(67, new string[] { "임대인 정보 모두 등기부등본과 동일하다. 문제 없다." });
 
 
     }

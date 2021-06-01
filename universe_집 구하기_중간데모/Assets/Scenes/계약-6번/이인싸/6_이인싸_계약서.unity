@@ -2059,6 +2059,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FadeOut
       objectReference: {fileID: 0}
+    - target: {fileID: 7020949204196640534, guid: fe2c93bad7a120549b63ec807bf06561,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7020949204196640532, guid: fe2c93bad7a120549b63ec807bf06561,
         type: 3}
       propertyPath: m_LocalPosition.x

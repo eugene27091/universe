@@ -132,6 +132,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: DialogAsset
       objectReference: {fileID: 0}
+    - target: {fileID: 5167619228224557010, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5167619228224557013, guid: 0f0739bfa9ac76040a65947e9a97410d,
         type: 3}
       propertyPath: m_IsActive
@@ -141,11 +146,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: fade
-      objectReference: {fileID: 0}
-    - target: {fileID: 5167619228224557010, guid: 0f0739bfa9ac76040a65947e9a97410d,
-        type: 3}
-      propertyPath: m_Color.a
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1150648985479466933, guid: 0f0739bfa9ac76040a65947e9a97410d,
         type: 3}
@@ -267,6 +267,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0.029296875
       objectReference: {fileID: 0}
+    - target: {fileID: 5099732173981071211, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: Emotion._sprite.Array.data[0]
+      value: 
+      objectReference: {fileID: 21300000, guid: 0d454a782216c0e488e02e715d41f9dd,
+        type: 3}
+    - target: {fileID: 5099732173981071208, guid: 0f0739bfa9ac76040a65947e9a97410d,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0d454a782216c0e488e02e715d41f9dd,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f0739bfa9ac76040a65947e9a97410d, type: 3}
 --- !u!224 &198871837 stripped
@@ -607,13 +619,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 965f1d829e647d648b0dc1db756fed67,
+      objectReference: {fileID: 21300000, guid: 2d1d8f0fe0c66b644b67595e75d9ff39,
         type: 3}
     - target: {fileID: 8206358605457009699, guid: b1e781a67c6f97f4d9cfb50a61f30655,
         type: 3}
       propertyPath: Emotion._sprite.Array.data[0]
       value: 
-      objectReference: {fileID: 21300000, guid: 965f1d829e647d648b0dc1db756fed67,
+      objectReference: {fileID: 21300000, guid: 2d1d8f0fe0c66b644b67595e75d9ff39,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b1e781a67c6f97f4d9cfb50a61f30655, type: 3}
