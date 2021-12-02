@@ -4,7 +4,10 @@
 </br>
 
 부동산 계약 기초 지식을 배울 수 있는 시뮬레이션 게임 
----
+</br>
+</br>
+</br>
+
 ## 게임 소개
 
 ![0001](https://user-images.githubusercontent.com/62321958/143454260-6d1f6829-9aab-4ac2-b869-705984b9d0cd.jpg)
